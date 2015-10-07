@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Настройки</string>
+    <string name="artist_title">Исполнитель: %s</string>
+    <string name="title_title">Название: %s</string>
+    <string name="views_count_title">Просмотров: %s</string>
+    <string name="progress_dialog_message">Загружаем данные...</string>
+    <string name="loading_error">Во время загрузки данных произошла ошибка, проверьте наличие подключения к интернету.</string>
+    <string name="loading_error_close">Закрыть</string>
+    <string name="loading_error_title">Ошибка</string>
+</resources>

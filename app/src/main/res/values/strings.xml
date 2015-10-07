@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">BigDig test app</string>
+    <string name="action_settings">Settings</string>
+    <string name="artist_title">Artist: %s</string>
+    <string name="title_title">Title: %s</string>
+    <string name="views_count_title">Views: %s</string>
+    <string name="progress_dialog_message">Loading data...</string>
+    <string name="loading_error">There was an error while loading data, please check network status and click retry</string>
+    <string name="loading_error_close">Close</string>
+    <string name="loading_error_title">Error</string>
+</resources>
